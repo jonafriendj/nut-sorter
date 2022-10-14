@@ -1,6 +1,6 @@
 # Hex nut sorter V2
 
-A device for easily sorting hex nuts
+A device for easily sorting all those hex nuts your kids dump all over your garage.
 
 Featured on [Hackaday](https://hackaday.com/2022/10/13/3d-printed-sorter-separates-spare-hex-nuts-with-a-shake/)! (Didn't see that coming! Thank you [@Donald Papp](https://hackaday.com/author/dp2cnk/))
 
