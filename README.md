@@ -4,6 +4,11 @@ A device for easily sorting hex nuts
 
 Featured on [Hackaday](https://hackaday.com/2022/10/13/3d-printed-sorter-separates-spare-hex-nuts-with-a-shake/)! (Didn't see that coming! Thank you [@Donald Papp](https://hackaday.com/author/dp2cnk/))
 
+**NutSorter.scad** is the main script.
+
+**OneScript.scad** is a "minified" version for non-coders.
+
+
 ***
 ## Contents
  - [Resources](#resources) 
