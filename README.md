@@ -2,15 +2,19 @@
 
 A device for easily sorting hex nuts
 
+Featured on [Hackaday](https://hackaday.com/2022/10/13/3d-printed-sorter-separates-spare-hex-nuts-with-a-shake/)! (Didn't see that coming! Thank you [@Donald Papp](https://hackaday.com/author/dp2cnk/))
+
 ***
 ## Contents
- - [Printables](#printables) 
+ - [Resources](#resources) 
  - [Customization (Openscad variables)](#customization) 
  - [Open Scan Command Line](#command-line) 
 
 ***
 ## Resources
 - [Printables](https://www.printables.com/model/289739-hex-nut-sorter-v2-metric-and-standard) model page.
+
+- [GitHub](https://github.com/jonafriendj/nut-sorter)
 
 - YouTube demo of sorting multiple sizes at once <br> [https://youtu.be/DMcDOK0mIe8](https://youtu.be/DMcDOK0mIe8)
 
@@ -24,7 +28,7 @@ A device for easily sorting hex nuts
 - Object Type
     - Model Part
         - Bottom cup (**Default**)
-        ![Bottom Cup](./img/BottomCup.png)
+        ![Bottom Cup](./img/BottomCup.PNG)
         - Sorting plate attached to cup
         ![Attached](./img/SPATTC.PNG)
         - Sorting plate
@@ -90,7 +94,7 @@ A device for easily sorting hex nuts
 
 This will create a .stl called Bottom.stl with the default values.
 
-![Bottom Cup](./img/BottomCup.png)
+![Bottom Cup](./img/BottomCup.PNG)
 
 
 ### Example 2:
@@ -102,4 +106,4 @@ This will create a .stl called Bottom.stl with the default values.
 - -P: Name of preset (M3,M6,Lid,etc)
 - & start *filename* to open STL in default program (PrusaSlicer for me)
 
-![M6 in slicer](./img/SlicerM6.png)
+![M6 in slicer](./img/SlicerM6.PNG)
