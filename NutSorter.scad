@@ -23,7 +23,7 @@ TabHeight = 1.6; //.1
 
  /* [Sorting plate] */
 // Nut Size 
-NutSize=2; // [1:M2.5, 2:M3, 3:M4, 4:M5, 5:M6, 6:M8, 7:Machine #10, 8:Machine #8, 9:Machine #6, 10:Machine #4, 11:Machine #3, 12:Machine #2, 13:Machine #1, 14:1/4 in., 15:5/16ths, 16:3/8ths, 17:7/16ths, 18:1/2 in., 19:9/16ths, 20:5/8ths , 21:3/4ths, 22:7/8ths]
+NutSize=2; // [1:M2.5, 2:M3, 3:M4, 4:M5, 5:M6, 6:M8, 7:Machine #10, 8:Machine #8, 9:Machine #6, 10:Machine #4, 11:Machine #3, 12:1/4 in., 13:5/16ths, 14:3/8ths, 15:7/16ths, 16:1/2 in., 17:9/16ths, 18:5/8ths , 19:3/4ths, 20:7/8ths]
 // Hole Spacing
 HoleSpacing = 2;
 //Text Area
